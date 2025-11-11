@@ -17,7 +17,7 @@ Challenge yourself to remember card positions and complete the board before the 
 - 🎴 Classic **memory matching gameplay**  
 - 🧮 **Easy, Medium, and Hard** modes
 - 🔁 **Restart & reset** functionality  
-- 📱 **Responsive layout** optimized for different screen sizes
+
 
 ---
 
